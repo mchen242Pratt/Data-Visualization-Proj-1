@@ -1,0 +1,154 @@
+{
+    "About": "Chinese Universities on QS World University Top 50 List (2016~2019)",
+    "Copyright": "© QS Quacquarelli Symonds Limited 1994 - 2019. All rights reserved.",
+    "Url": "https://www.topuniversities.com/",
+    "Lists": [
+        {
+            "QS2019": [
+                {
+                    "Univ": "Tsinghua University",
+                    "QSRank": 17
+                },
+                {
+                    "Univ": "Peking University",
+                    "QSRank": 30
+                },
+                {
+                    "Univ": "The HK University of Science & Technology",
+                    "QSRank": 37
+                },
+                {
+                    "Univ": "The University of HK",
+                    "QSRank": 25
+                }
+            ],
+
+            "QS2018": [
+                {
+                    "Univ": "Tsinghua University",
+                    "QSRank": 25
+                },
+                {
+                    "Univ": "Peking University",
+                    "QSRank": 38
+                },
+                {
+                    "Univ": "The HK University of Science & Technology",
+                    "QSRank": 30
+                },
+                {
+                    "Univ": "The University of HK",
+                    "QSRank": 26
+                }
+            ],
+
+            "QS2017": [
+                {
+                    "Univ": "Tsinghua University",
+                    "QSRank": 24
+                },
+                {
+                    "Univ": "Peking University",
+                    "QSRank": 39
+                },
+                {
+                    "Univ": "The HK University of Science & Technology",
+                    "QSRank": 36
+                },
+                {
+                    "Univ": "The University of HK",
+                    "QSRank": 27
+                }
+            ],
+
+            "QS2016": [
+                {
+                    "Univ": "Tsinghua University",
+                    "QSRank": 25
+                },
+                {
+                    "Univ": "Peking University",
+                    "QSRank": 41
+                },
+                {
+                    "Univ": "The HK University of Science & Technology",
+                    "QSRank": 28
+                },
+                {
+                    "Univ": "The University of HK",
+                    "QSRank": 30
+                }
+            ]
+        }
+    ],
+
+    "Ranking_Criteria": [
+        {
+            "Weight": {
+                "Academic Reputation": "20%",
+                "Faculty Student": "20%",
+                "Citations per Faculty": "20%",
+                "International Student Ratio": "10%",
+                "International Faculty Ratio": "10%"
+            },
+
+            "Scores": [
+                {
+                    "Univ": "Tsinghua University",
+                    "Overall_Score": 87.2,
+                    "Academic_Reputation": 97,
+                    "Employer_Reputation": 99.4,
+                    "Faculty_Student": 91.5,
+                    "Citations_per_Faculty": 77.4,
+                    "International_Faculty": 60.6,
+                    "International_Student": 29.2,
+                    "No.1_Subject": "Engineering-Civil and Structural",
+                    "No.1_Subject_Ranking_World_Rank": 5,
+                    "Student_and_Teacher_num": 42119
+                },
+
+                {
+                    "Univ": "Peking University",
+                    "Overall_Score": 82.6,
+                    "Academic_Reputation": 99,
+                    "Employer_Reputation": 99.8,
+                    "Faculty_Student": 64,
+                    "Citations_per_Faculty": 69.4,
+                    "International_Faculty": 68.2,
+                    "International_Student": 53.8,
+                    "No.1_Subject": "Modern Language",
+                    "No.1_Subject_Ranking_World_Rank": 6,
+                    "Student_and_Teacher_num": 48261
+                },
+
+                {
+                    "Univ": "The HK University of Science & Technology",
+                    "Overall_Score": 80.5,
+                    "Academic_Reputation": 83.6,
+                    "Employer_Reputation": 73,
+                    "Faculty_Student": 61.8,
+                    "Citations_per_Faculty": 89,
+                    "International_Faculty": 100,
+                    "International_Student": 87.9,
+                    "No.1_Subject": "Computer Science and Information System",
+                    "No.1_Subject_Ranking_World_Rank": 14,
+                    "Student_and_Teacher_num": 11879
+                },
+                
+                {
+                    "Univ": "The University of HK",
+                    "Overall_Score": 84.3,
+                    "Academic_Reputation": 96.7,
+                    "Employer_Reputation": 83.7,
+                    "Faculty_Student": 88.1,
+                    "Citations_per_Faculty": 47.1,
+                    "International_Faculty": 100,
+                    "International_Student": 99.4,
+                    "No.1_Subject": "Dentistry",
+                    "No.1_Subject_Ranking_World_Rank": 1,
+                    "Student_and_Teacher_num": 23216
+                }
+            ]
+        }
+    ]
+}
